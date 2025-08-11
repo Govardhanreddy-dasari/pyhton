@@ -15,7 +15,7 @@ print(functions.sub(16,10))
 print(functions.div(16,12))
 a=16
 try:
-    print(b)
+    print(a)
 except:
     print("An error occurred while printing b")
 else:
